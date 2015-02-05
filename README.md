@@ -13,7 +13,7 @@ NOTE : This is UNOFFICIAL project.
 
 # Install
 
-     julia> Pkg.clone("https://github.com/yomichi/ALPS.jl)
+     julia> Pkg.add("ALPS")
 
 # Usage
 
